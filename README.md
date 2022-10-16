@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BillerJully Full-stack Developer in 2023
+- 👋 Hi, I’m @BillerJully Full-stack Developer in 20 23
 - 👀 I’m interested in EdTech
 - 🌱 I’m currently learning JS\Py frameworks
 - 📫 How to reach me: telegram @billJully
