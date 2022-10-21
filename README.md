@@ -4,7 +4,7 @@
 - 📫 How to reach me: telegram @billJully
 - Creator and Founder of Jubel
 My level is really low now, but i will improve
-
+-\-/\-/-
 My skills:
 Python django, tkinter
 JS/TS react, vue, node
