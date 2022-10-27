@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BillerJully Full-stack Developer in 20 23 focused on Py
-- 👀 I’m interested in EdTech
+- 👀 I’m interested in EdTech!
 - 🌱 I’m currently learning JS\Py frameworks
 - 📫 How to reach me: telegram @billJully
 - Creator and Founder of Jubel
