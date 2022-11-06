@@ -6,12 +6,19 @@
 My level is really low now, but i will improve
 
 My skills:
+
 Python django, tkinter
+
 JS/TS react, vue, node
+
 Docker
+
 PostrgeSQL
+
 MySQL
+
 Blockchain
+
 WEB 3.0
 <!---
 BillerJully/BillerJully is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
